@@ -1,0 +1,26 @@
+body
+{
+  margin: 0;
+}
+
+
+.app {
+  height: 6000px;
+  padding : 50px;
+  margin: 50px;
+  background-color:aquamarine;  
+  border-style: solid;
+  border-color: red;
+  border-radius: 15px;
+}
+
+#titulo{ 
+  font-size: 100px;
+  color: black;
+  width: max-content;
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+  left: 500px;
+}
+

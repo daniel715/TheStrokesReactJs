@@ -1,0 +1,13 @@
+.App {
+  margin: 0px;
+  text-align: center;
+}
+
+
+#div{
+  height: 1000px;
+  background-color: aqua;
+  border-style: solid;
+  border-radius: 2em;
+}
+

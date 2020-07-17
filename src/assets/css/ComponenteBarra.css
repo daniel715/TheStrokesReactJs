@@ -1,0 +1,49 @@
+#barra{
+    position: absolute;
+    left: 300px;
+    top: 220px;
+    border-style: solid;
+    border-color: blue;
+    width: 1500px;
+}
+
+#tituloDeBarra{
+    font-size: 50px;
+}
+
+
+img{
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    width: 150px;
+}
+
+button{
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    width: min-content;
+}
+
+#componenteinformacion{
+    position: absolute;
+    left: 300px;
+    top: 550px;
+    font-size: 50px;
+    border-style: solid;
+}
+
+
+#tableinfo{
+    border:1px  black solid;
+
+  }
+
+thead{
+      font-size: 80px;
+  }
+
+.celda{
+    border: 1px black solid;
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "nombre":"Is this It",
+    "año":" July 30, 2001",
+    "genre":"Indie rock",
+    "label":"RCA",
+    "lugar":"Estados Unidos",
+    "portada":"https://www.elquintobeatle.com/wp-content/uploads/2015/05/the-strokes-is-this-it-1-1068x1068.jpg",
+    "descripcion":"asdasd.",
+    "canciones":[
+      {
+        "numero":1,
+        "titulo":"Is this It"
+      },
+      {
+        "numero":2,
+        "titulo":"The Modern Age"
+      },
+      {
+        "numero":3,
+        "titulo":"Soma"
+      },
+      {
+        "numero":4,
+        "titulo":"Barely Legal"
+      },
+      {
+        "numero":5,
+        "titulo":"Someday"
+      },
+      {
+        "numero":6,
+        "titulo":"Alone, Together"
+      },
+      {
+        "numero":7,
+        "titulo":"Last Nite"
+      },
+      {
+        "numero":8,
+        "titulo":"Hard to Explaim"
+      },
+      {
+        "numero":9,
+        "titulo":"New York City Cops"
+      },
+      {
+        "numero":10,
+        "titulo":"Trying Your Luck"
+      },
+      {
+        "numero":11,
+        "titulo":"Take It or Leave It"
+      }
+    ]
+  },
+  {
+    "nombre":"Room on Fire",
+    "año":"2003",
+    "genre":"Indie rock",
+    "label":"RCA",
+    "lugar":"Estados Unidos",
+    "portada":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Room_on_Fire_cover.jpg/220px-Room_on_Fire_cover.jpg",
+    "descripcion":"asdasd",
+    "canciones":[
+      {
+        "numero":1,
+        "titulo":"What Ever Happened"
+      },
+      {
+        "numero":2,
+        "titulo":"Reptilia"
+      },
+      {
+        "numero":3,
+        "titulo":"Automatic Stop"
+      },
+      {
+        "numero":4,
+        "titulo":"12:51"
+      },
+      {
+        "numero":5,
+        "titulo":"You Talk Way Too Much"
+      },
+      {
+        "numero":6,
+        "titulo":"Between Love & Hate"
+      },
+      {
+        "numero":7,
+        "titulo":"Meet Me in the Bathroom"
+      },
+      {
+        "numero":8,
+        "titulo":"Under Control"
+      },
+      {
+        "numero":9,
+        "titulo":"The Way It Is"
+      },
+      {
+        "numero":10,
+        "titulo":"The End Has No End"
+      },
+      {
+        "numero":11,
+        "titulo":"I Can't Win"
+      }
+    ]
+  }
+]

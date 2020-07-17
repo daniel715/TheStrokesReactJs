@@ -1,0 +1,17 @@
+
+.foto
+{
+    width: 150px;
+    height: 200px;
+}
+
+#componenteIntegrantes{
+    margin: 0;
+    border-style: solid;
+    border-color: yellow;
+    width: 160px;
+}
+
+.nombre{
+    font-size: 20px;
+}
